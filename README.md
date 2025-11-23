@@ -7,7 +7,7 @@ A complete full-stack Inventory Management System built using **React (Frontend)
 ## 🌐 Live Project Links
 
 **Frontend (Netlify):**  
-https://zesty-pika-ac391c.netlify.app/
+https://inventorymanagementsystem-assignment.netlify.app/
 
 **Backend (Render):**  
 https://inventory-management-app-i0ah.onrender.com
@@ -165,3 +165,4 @@ https://inventorymanagementsystem-assignment.netlify.app/
 ## ✅ Conclusion
 
 This project delivers a complete Inventory Management System including search, CSV import/export, editing, and inventory history. Both frontend and backend are deployed successfully and meet all Skillwise assignment requirements.
+
